@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  IELTSTeacher
+
+  Created by DevNiudun on 15/6/15.
+  Copyright (c) 2015年 xdf. All rights reserved.
+*/
+
+
+"Sun" = "日";
+"Mon" = "一";
+"Tue" = "二";
+"Wed" = "三";
+"Thu" = "四";
+"Fri" = "五";
+"Sat" = "六";
+
+"Sunday" = "日";
+"Monday" = "一";
+"Tuesday" = "二";
+"Wednesday" = "三";
+"Thursday" = "四";
+"Friday" = "五";
+"Saturday"="六";
